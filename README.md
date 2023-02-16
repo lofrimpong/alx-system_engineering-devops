@@ -1,1 +1,2 @@
-Please work. O Lord I pray
+#!/bin/bash
+Print Hello World
